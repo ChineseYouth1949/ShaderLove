@@ -1,0 +1,10 @@
+# User config
+.vs/*
+.vscode/*
+CMakePresets.json
+
+# Build file
+Build/*
+
+# Enternal file
+External/
